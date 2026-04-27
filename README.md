@@ -45,5 +45,5 @@ Preparing for the ISTQB Foundation Level certification while building hands-on e
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=false&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SDET-Plus&show_icons=false&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDET-Plus&layout=compact&theme=default)
