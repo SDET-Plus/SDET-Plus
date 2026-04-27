@@ -14,11 +14,12 @@ Preparing for the ISTQB Foundation Level certification while building hands-on e
 ---
 
 ## 🧰 What tools do I use?
-My toolkit includes:
-- Playwright & Selenium (UI automation)  
-- Python (test development)  
-- Docker (consistent test environments)  
-- n8n (workflow and process automation)  
+- **UI Automation:** Playwright, Selenium  
+- **Languages:** Python  
+- **API Testing:** Postman  
+- **DevOps & Environments:** Docker  
+- **Workflow Automation:** n8n  
+- **Collaboration & Platforms:** Microsoft Power Apps, SharePoint   
 
 ---
 
