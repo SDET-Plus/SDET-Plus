@@ -1,19 +1,19 @@
-## 👋 Hi there
+## ▸ Hi there
 QA tester focused on building reliable test frameworks and ensuring high-quality software through structured testing approaches.
 
 ---
 
-## 👨‍💻 Who am I?
+## ▸ Who am I?
 I am a QA tester expanding my skills in automation, with a focus on test design, API testing, and improving software quality.
 
 ---
 
-## 🚧 What am I currently working on?
+## ▸ What am I currently working on?
 Preparing for the ISTQB Foundation Level certification while building hands-on experience in test automation and real-world testing projects.
 
 ---
 
-## 🧰 What tools do I use?
+## ▸ What tools do I use?
 - **UI Automation:** Playwright, Selenium  
 - **Languages:** Python  
 - **API Testing:** Postman  
@@ -23,13 +23,13 @@ Preparing for the ISTQB Foundation Level certification while building hands-on e
 
 ---
 
-## 🐞 Bug Reports / Case Studies
+## ▸ Bug Reports / Case Studies
 - [Login Feature Bug](./bug-reports/login-bug.md)
 - [Checkout Bug](./bug-reports/checkout-bug.md)
 
 ---
 
-## 🎓 Certifications
+## ▸ Certifications
 - Accessibility Fundamentals (AODA / WCAG 2.1) 
 - ISTQB Foundation Level (in progress)
 - Postman API Fundamentals
@@ -38,12 +38,11 @@ Preparing for the ISTQB Foundation Level certification while building hands-on e
 
 ---
 
-## 📫 How to reach me
+## ▸ How to reach me
 - Email: coming soon  
 - LinkedIn: coming soon
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SDET-Plus&show_icons=false&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDET-Plus&layout=compact&theme=default)
+## ▸ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=false&theme=transparent)
