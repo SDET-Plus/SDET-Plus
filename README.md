@@ -1,16 +1,15 @@
 ## Hi there 👋
+QA tester focused on building reliable test frameworks and ensuring high-quality software through structured testing approaches.
 
-<!--
-**SDET-Plus/SDET-Plus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I?
+I am a QA tester expanding my skills in automation, with a focus on test design, API testing, and improving software quality.
 
-Here are some ideas to get you started:
+## 🚧 What am I currently working on?
+Preparing for the ISTQB Foundation Level certification while building hands-on experience in test automation and real-world testing projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 What tools do I use?
+My toolkit includes Playwright and Selenium for UI automation, Python for test development, Docker for consistent test environments, and n8n for workflow and process automation.
+
+## 📫 How to reach me
+Email: coming soon
+LinkedIn: coming soon
